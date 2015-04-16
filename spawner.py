@@ -1,17 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-"""
-ZetCode PyQt5 tutorial 
-
-In this example, we connect a signal
-of a QSlider to a slot of a QLCDNumber. 
-
-author: Jan Bodnar
-website: zetcode.com 
-last edited: January 2015
-"""
-
 import sys
 from PyQt5.QtCore import (Qt, pyqtSlot, qDebug)
 from PyQt5.QtWidgets import (QApplication, QMainWindow)
